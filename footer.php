@@ -2,40 +2,13 @@
 <div class="container-fluid bg-secondary text-dark footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
-                <div class="col-lg-4 col-md-6">
+            <div class="col-12 col-md-3">
                     <h4 class="text-uppercase mb-4 text-dark">Get In Touch</h4>
                     <div class="d-flex align-items-center mb-2">
                         <div class="btn-square flex-shrink-0 me-3">
                             <span class="fa fa-map-marker-alt text-primary"></span>
                         </div>
-                        <span>123 Street, New York, USA</span>
-                    </div>
-                    <div class="d-flex align-items-center mb-2">
-                        <div class="btn-square flex-shrink-0 me-3">
-                            <span class="fa fa-phone-alt text-primary"></span>
-                        </div>
-                        <span>+012 345 67890</span>
-                    </div>
-                    <div class="d-flex align-items-center">
-                        <div class="btn-square flex-shrink-0 me-3">
-                            <span class="fa fa-envelope-open text-primary"></span>
-                        </div>
-                        <span>info@example.com</span>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <h4 class="text-uppercase mb-4 text-dark">Quick Links</h4>
-                    <a class="btn btn-link text-primary" href="">About Us</a>
-                    <a class="btn btn-link text-primary" href="">Contact Us</a>
-                    <a class="btn btn-link text-primary" href="">Our Services</a>
-                    <a class="btn btn-link text-primary" href="">Terms & Condition</a>
-                    <a class="btn btn-link text-primary" href="">Support</a>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <h4 class="text-uppercase mb-4 text-dark">Newsletter</h4>
-                    <div class="position-relative mb-4">
-                        <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
-                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
+                        <span>No-26/1, 5th Floor, WTC-Brigade, Dr. Rajkumar Road, Malleshwaram, Bangalore-560055</span>
                     </div>
                     <div class="d-flex pt-1 m-n1">
                         <a class="btn btn-lg-square text-primary m-1" href=""><i class="fab fa-twitter"></i></a>
@@ -43,6 +16,37 @@
                         <a class="btn btn-lg-square text-primary m-1" href=""><i class="fab fa-youtube"></i></a>
                         <a class="btn btn-lg-square text-primary m-1" href=""><i class="fab fa-linkedin-in"></i></a>
                     </div>
+                    <div class="d-flex align-items-center mb-2">
+                       
+                        <span></span>
+                    </div>
+                  
+                </div>
+                <div class="col-12 col-md-3">
+                    <h4 class="text-uppercase mb-4 text-dark">CONNECT WITH IEEE</h4>
+                    <a class="btn btn-link text-primary" href="">IEEE Collabratec</a>
+                    <a class="btn btn-link text-primary" href="">Careers at IEEE us</a>
+                    <a class="btn btn-link text-primary" href="">IEEE Newsroom</a>
+                    <a class="btn btn-link text-primary" href="">IEEE Media Kit</a>
+                    <a class="btn btn-link text-primary" href="">IEEE Learning Network</a>
+                </div>
+                <div class="col-12 col-md-3">
+                    <h4 class="text-uppercase mb-4 text-dark">MEMBERSHIP</h4>
+                    <a class="btn btn-link text-primary" href="">Join</a>
+                    <a class="btn btn-link text-primary" href="">Renew</a>
+                    <a class="btn btn-link text-primary" href="">Benefits</a>
+                    <a class="btn btn-link text-primary" href="">IEEE Collabratec</a>
+                    <a class="btn btn-link text-primary" href="">Guide to Join IEEE</a>
+                </div>
+                <div class="col-12 col-md-3">
+                    <h4 class="text-uppercase mb-4 text-dark">Quick Links</h4>
+                    <a class="btn btn-link text-primary" href="">Home</a>
+                    <a class="btn btn-link text-primary" href="">About-Us</a>
+                    <a class="btn btn-link text-primary" href="">Registrations</a>
+                   
+                </div>
+                
+                   
                 </div>
             </div>
         </div>
