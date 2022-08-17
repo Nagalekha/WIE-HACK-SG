@@ -9,8 +9,8 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto p-4 p-lg-0">
             <a href="index.php" class="nav-item nav-link active">Home</a>
-            <a href="about.html" class="nav-item nav-link">About</a>
-            <a href="service.html" class="nav-item nav-link">Service</a>
+            <a class="nav-link scrollto" href="#overview">About</a>
+            <a class="nav-link scrollto" href="#criteria">Participation</a>
             
             <a href="contact.html" class="nav-item nav-link">Contact</a>
         </div>
