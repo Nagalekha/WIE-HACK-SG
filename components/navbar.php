@@ -11,16 +11,7 @@
             <a href="index.php" class="nav-item nav-link active">Home</a>
             <a href="about.html" class="nav-item nav-link">About</a>
             <a href="service.html" class="nav-item nav-link">Service</a>
-            <div class="nav-item dropdown">
-                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
-                <div class="dropdown-menu m-0">
-                    <a href="price.html" class="dropdown-item">Pricing Plan</a>
-                    <a href="team.html" class="dropdown-item">Our Barber</a>
-                    <a href="open.html" class="dropdown-item">Working Hours</a>
-                    <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                    <a href="404.html" class="dropdown-item">404 Page</a>
-                </div>
-            </div>
+            
             <a href="contact.html" class="nav-item nav-link">Contact</a>
         </div>
         <a href="https://in.explara.com/e/wie-hackathon" target=_blank class="btn btn-primary rounded-0 py-2 px-lg-4 d-none d-lg-block">Registration<i class="fa fa-arrow-right ms-3"></i></a>

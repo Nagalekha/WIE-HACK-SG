@@ -122,131 +122,23 @@
         </div>
     </div>
     <!-- Service End -->
-
-
-    <!-- Price Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-0">
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="bg-secondary h-100 d-flex flex-column justify-content-center p-5">
-                        <p class="d-inline-flex bg-dark text-primary py-1 px-4 me-auto">Price & Plan</p>
-                        <h1 class="text-uppercase mb-4">Check Out Our Barber Services And Prices</h1>
-                        <div>
-                            <div class="d-flex justify-content-between border-bottom py-2">
-                                <h6 class="text-uppercase mb-0">Haircut</h6>
-                                <span class="text-uppercase text-primary">$29.00</span>
-                            </div>
-                            <div class="d-flex justify-content-between border-bottom py-2">
-                                <h6 class="text-uppercase mb-0">Beard Trim</h6>
-                                <span class="text-uppercase text-primary">$35.00</span>
-                            </div>
-                            <div class="d-flex justify-content-between border-bottom py-2">
-                                <h6 class="text-uppercase mb-0">Mans Shave</h6>
-                                <span class="text-uppercase text-primary">$23.00</span>
-                            </div>
-                            <div class="d-flex justify-content-between border-bottom py-2">
-                                <h6 class="text-uppercase mb-0">Hair Dyeing</h6>
-                                <span class="text-uppercase text-primary">$19.00</span>
-                            </div>
-                            <div class="d-flex justify-content-between border-bottom py-2">
-                                <h6 class="text-uppercase mb-0">Mustache</h6>
-                                <span class="text-uppercase text-primary">$15.00</span>
-                            </div>
-                            <div class="d-flex justify-content-between py-2">
-                                <h6 class="text-uppercase mb-0">Stacking</h6>
-                                <span class="text-uppercase text-primary">$39.00</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="h-100">
-                        <img class="img-fluid h-100" src="img/price.jpg" alt="">
-                    </div>
-                </div>
-            </div>
+    <!-- Overview Start -->  
+    <section id="about" class="about section-bg">
+    <div class="container">
+        <div class="tab-content" id="myTabContent">
+          <div class="tab-pane fade show active mt-5 section-title" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
+            <h2>Overview</h2>
+            <p align="justify">
+            IEEE WIE Bangalore along with IEEE Bangalore Section, IEEE Bangalore Section SAC, IEEE SIGHT Bangalore Section, IEEE PELS Bangalore Chapter, IEEE TEMS Bangalore Chapter, IEEE Sensors Council Bangalore Chapter, IEEE Education Society Bangalore Chapter, IEEE Computational Intelligence Society have come together to announce this flagship event IEEE WIE Social Hackathon League 2022.
+            <br><br>
+            The IEEE WIE Social Hackathon League was established to give engineering students the chance to promote a learning ecosystem. This multi-stage competition and activity aims to introduce engineering students to problem- and project-based learning while also assisting them in gaining useful experience with real-life engineering problems. The occasion is being held in cooperation with numerous chapters of the IEEE Society. Selected student teams will receive guidance from academics and industry experts to produce projects with social impact.
+            </p>          
+          </div>
+          </div>
         </div>
-    </div>
-    <!-- Price End -->
-
-
-    <!-- Team Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="d-inline-block bg-secondary text-primary py-1 px-4">Our Barber</p>
-                <h1 class="text-uppercase">Meet Our Barber</h1>
-            </div>
-            <div class="row g-4">
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item">
-                        <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/team-1.jpg" alt="">
-                            <div class="team-social">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <div class="bg-secondary text-center p-4">
-                            <h5 class="text-uppercase">Barber Name</h5>
-                            <span class="text-primary">Designation</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item">
-                        <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/team-2.jpg" alt="">
-                            <div class="team-social">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <div class="bg-secondary text-center p-4">
-                            <h5 class="text-uppercase">Barber Name</h5>
-                            <span class="text-primary">Designation</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="team-item">
-                        <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/team-3.jpg" alt="">
-                            <div class="team-social">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <div class="bg-secondary text-center p-4">
-                            <h5 class="text-uppercase">Barber Name</h5>
-                            <span class="text-primary">Designation</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="team-item">
-                        <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/team-4.jpg" alt="">
-                            <div class="team-social">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <div class="bg-secondary text-center p-4">
-                            <h5 class="text-uppercase">Barber Name</h5>
-                            <span class="text-primary">Designation</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
+      </div>
+    </section>
+    <!-- End Overview Section -->
 
 
     <!-- Working Hours Start -->
