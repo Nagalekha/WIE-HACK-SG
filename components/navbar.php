@@ -9,12 +9,13 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto p-4 p-lg-0">
             <a href="index.php" class="nav-item nav-link active">Home</a>
-            <a class="nav-link scrollto" href="#overview">About</a>
+            <a class="nav-link scrollto" href="#overview">Ideas</a>
             <a class="nav-link scrollto" href="#criteria">Participation</a>
+            <a class="nav-link scrollto" href="./assets/WIESHL2022.pdf" target="_blank" download="WIE Hack SG">E-Poster</a>
             
             <a href="contact.html" class="nav-item nav-link">Contact</a>
         </div>
-        <a href="https://in.explara.com/e/wie-hackathon" target=_blank class="btn btn-primary rounded-0 py-2 px-lg-4 d-none d-lg-block">Registration<i class="fa fa-arrow-right ms-3"></i></a>
+        <a href="https://in.explara.com/e/wie-hackathon" target=_blank class="btn btn-primary rounded-0 py-2 px-lg-4 d-none d-lg-block">Register Now<i class="fa fa-arrow-right ms-3"></i></a>
     </div>
 </nav>
 <!-- Navbar End -->

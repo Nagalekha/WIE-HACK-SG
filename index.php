@@ -69,7 +69,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <div class="bg-secondary h-100 d-flex flex-column justify-content-center p-5">
-                        <p class="d-inline-flex bg-dark text-primary py-1 px-4 me-auto">IDEAS ON</p>
+                        <p class="d-inline-flex bg-dark text-primary py-1 px-4 me-auto">Welcoming Ideas On:</p>
                         <div>
                             <div class="d-flex justify-content-between border-bottom py-2">
                                 
