@@ -131,6 +131,43 @@
     <!-- Testimonial End -->
 
 
+     <!-- Contact Us Start -->
+    <section id="contact" class="contact section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>For Any Queries</h2>
+          
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-12">
+
+            <div class="row">
+              <div class="col-md-12">
+                <div class="info-box" data-aos="fade-up">
+                  <i class="bx bx-map"></i>
+                 </div>
+              </div>
+              <div class="col-md-6">
+                <div class="info-box mt-4" data-aos="fade-up" data-aos-delay="100">
+                  <i class="bx bx-envelope"></i>
+                  <h3>Email Us</h3>
+                  <p>
+                    <a href="mailto:kumudh.r@ieee.org">kumudh.r@ieee.org</a>
+                    <br>
+                    <a href="mailto:prachako@in.ibm.com">prachako@in.ibm.com</a>
+                  </p>
+                </div>
+              </div>
+              
+            </div>
+
+          </div>
+          <!-- Contact Us End -->
+
+
     <?php include 'footer.php' ?>
 </body>
 

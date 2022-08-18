@@ -13,7 +13,7 @@
             <a class="nav-link scrollto" href="#criteria">Participation</a>
             <a class="nav-link scrollto" href="./assets/WIESHL2022.pdf" target="_blank" download="WIE Hack SG">E-Poster</a>
             
-            <a href="contact.html" class="nav-item nav-link">Contact</a>
+            <a class="nav-link scrollto" href="#contact">Contact</a>
         </div>
         <a href="https://in.explara.com/e/wie-hackathon" target=_blank class="btn btn-primary rounded-0 py-2 px-lg-4 d-none d-lg-block">Register Now<i class="fa fa-arrow-right ms-3"></i></a>
     </div>
