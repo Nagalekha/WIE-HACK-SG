@@ -3,23 +3,20 @@
     <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="w-100" src="img/hack.jpeg" alt="Image">
+                <img class="w-100" src="img/cara-1.webp" alt="Image">
                 <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                     <div class="mx-sm-5 px-5" style="max-width: 900px;">
-                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">IEEE WIE HACKATHON FOR SOCIAL GOOD</h1>
-                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"></i>Aug 1,2022 -Sep 15, 2022</h4>
-                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"></i>09:00 AM - 11:59 PM (IST)</h4>
+                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">IEEE WIE SOCIAL HACKATHON LEAGUE 2022</h1>
                     </div>
                 </div>
             </div>
-<!--
             <div class="carousel-item">
-                <img class="w-100" src="img/carousel-2.jpg" alt="Image">
+                <img class="w-100" src="img/cara-2.webp" alt="Image">
                 <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                     <div class="mx-sm-5 px-5" style="max-width: 900px;">
-                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">Luxury Haircut at Affordable Price</h1>
-                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-map-marker-alt text-primary me-3"></i>123 Street, New York, USA</h4>
-                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-phone-alt text-primary me-3"></i>+012 345 67890</h4>
+                        <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">WIE Shall Overcome</h1>
+                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-bug text-primary me-3"></i>Contest 1 & 2 : August 15 - September 15, 2022</h4>
+                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-bug text-primary me-3"></i>Contest 3: September 15 - November 15, 2022 </h4>
                     </div>
                 </div>
             </div>
@@ -34,4 +31,4 @@
         </button>
     </div>
 </div>
-Carousel End -->
+<!-- Carousel End -->
