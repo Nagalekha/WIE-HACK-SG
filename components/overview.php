@@ -18,12 +18,24 @@
                 <p class="mb-4">The IEEE WIE Social Hackathon League was established to give engineering students the chance to promote a learning ecosystem. This multi-stage competition and activity aims to introduce engineering students to problem- and project-based learning while also assisting them in gaining useful experience with real-life engineering problems. The occasion is being held in cooperation with numerous chapters of the IEEE Society. Selected student teams will receive guidance from academics and industry experts to produce projects with social impact.</p>
                 <div class="row g-4">
                     <div class="col-md-6">
-                        <h3 class="text-uppercase mb-3">Since 1990</h3>
-                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.</p>
+                        <h3 class="text-uppercase mb-3">Participation Criteria</h3>
+                        <p class="mb-0">Group of 4 (with at least one girl in the team)</p>
                     </div>
                     <div class="col-md-6">
-                        <h3 class="text-uppercase mb-3">1000+ clients</h3>
-                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.</p>
+                        <h3 class="text-uppercase mb-3">Who can participate?</h3>
+                        <p class="mb-0">Open to all branches of Engineering (BTech, MTech. BCA, MCA students)</p>
+                    </div>
+                    <div class="col-md-6">
+                        <h3 class="text-uppercase mb-3">Seriousness Fees in INR :</h3>
+                        <p class="mb-0">
+                            <ul>
+                                <li>Contest 1 & 2 <br>( Non - IEEE - 200 ) <br> ( IEEE - 100 )</li>
+                                <li>Contest 3 <br>( Non - IEEE - 500 ) <br> ( IEEE - 250 )</li>
+                            </ul>
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        <h3 class="text-uppercase mb-3">Open to all years</h3>
                     </div>
                 </div>
             </div>

@@ -9,7 +9,7 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto p-4 p-lg-0">
             <a href="index.php" class="nav-item nav-link active">Home</a>
-            <a class="nav-link scrollto" href="#overview">Ideas</a>
+            <a class="nav-link scrollto" href="#ideas">Ideas</a>
             <a class="nav-link scrollto" href="#criteria">Participation</a>
             <a class="nav-link scrollto" href="./assets/WIESHL2022.pdf" target="_blank" download="WIE Hack SG">E-Poster</a>
             <a class="nav-link scrollto" href="#contact">Contact</a>

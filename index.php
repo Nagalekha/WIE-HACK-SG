@@ -30,6 +30,10 @@
   <?php include './components/overview.php' ?>
   <!-- Overview End -->
 
+  <!-- Themes Start -->
+  <?php include './components/themes.php' ?>
+  <!-- Themes End -->
+
   <!-- About Start -->
   <!-- About End -->
 
