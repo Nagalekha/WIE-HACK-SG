@@ -18,6 +18,8 @@
                     Attractive prizes will be given to the winning teams along with participation certificates for all the participants. The event is designed to provide AICTE activity points to students to ensure good participation.
                     <h1 style="color: black;" class="mb-2 mt-2">Phases</h1>
                     <!-- Table for phases -->
+                    <div class="table-responsive">
+                        <p>Scroll to view (on mobile screens).</p>
                     <table class="table table-bordered table-striped mt-2">
                         <thead>
                             <tr>
@@ -68,6 +70,7 @@
                             </tr>
                         </tbody>
                     </table>
+                    </div>
                 </div>
             </div>
         </div>
