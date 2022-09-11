@@ -34,7 +34,7 @@
                             <tr>
                                 <th scope="row">Contest 1</th>
                                 <td>Problem Scoping - Identify the problem in the given focus areas.</td>
-                                <td>15th Aug - 31st Aug, 2022</td>
+                                <td>15th Aug - 1st Oct, 2022</td>
                                 <td>
                                     <ul>
                                         <li>Poster</li>
@@ -46,7 +46,7 @@
                             <tr>
                                 <th scope="row">Contest 2</th>
                                 <td>Ideation Identify the problem from CMT database</td>
-                                <td>15th Aug - 31st Aug, 2022</td>
+                                <td>15th Aug - 1st Oct, 2022</td>
                                 <td>
                                     <ul>
                                         <li>Abstract</li>
@@ -60,7 +60,7 @@
                             <tr>
                                 <th scope="row">Contest 3</th>
                                 <td>Implementation</td>
-                                <td>1st Sept - 30th Oct, 2022</td>
+                                <td>2nd Oct - 30th Oct, 2022</td>
                                 <td>
                                     <ul>
                                         <li>Showcase the completed project</li>
