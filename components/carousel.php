@@ -15,8 +15,9 @@
                 <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                     <div class="mx-sm-5 px-5" style="max-width: 900px;">
                         <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">WIE Shall Overcome</h1>
-                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-bug text-primary me-3"></i>Contest 1 & 2 : August 15 - September 15, 2022</h4>
-                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-bug text-primary me-3"></i>Contest 3: September 15 - November 15, 2022 </h4>
+                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-bug text-primary me-3"></i>Contest 1 & 2 : August 15 - September 30, 2022</h4>
+                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-bug text-primary me-3"></i>Contest 3: October 3 - November 14, 2022 </h4>
+                        <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-bug text-primary me-3"></i>Project showcase date : November 19</h4>
                     </div>
                 </div>
             </div>

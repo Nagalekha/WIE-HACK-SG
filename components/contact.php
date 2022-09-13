@@ -7,8 +7,7 @@
             </div>
             <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/testimonial-1.jpg' alt=''>">
                 <h4 class="text-uppercase">Email us at</h4>
-                <p class="text-primary"><a href="mailto:kumudh.r@ieee.org">kumudh.r@ieee.org</a></p>
-                <p class="text-primary"><a href="mailto:prachako@in.ibm.com">prachako@in.ibm.com</a></p>
+                <p class="text-primary"><a href="mailto:kumudh.r@ieee.org">wie.ieee.blr@gmail.com</a></p>
             </div>
         </div>
 

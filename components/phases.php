@@ -13,6 +13,7 @@
                         <li class="text-primary mb-3">The event is open to all Students of Engineering (BTech and MTech).</li>
                         <li class="text-primary mb-3">Students from all years and all branches are eligible to participate in the contests.</li>
                         <li class="text-primary mb-3">A seriousness fees will be charged to ensure participation and student engagement.</li>
+                        <li class="text-primary mb-3">1 participant can be part of 1 team only.</li>
                     </ul>
                     <br>
                     Attractive prizes will be given to the winning teams along with participation certificates for all the participants. The event is designed to provide AICTE activity points to students to ensure good participation.
@@ -28,6 +29,7 @@
                                 <th scope="col">Timelines</th>
                                 <th scope="col">Expected Outcome</th>
                                 <th scope="col">Deliverables on Completion</th>
+                                <th scope="col">Templates</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -42,6 +44,7 @@
                                     </ul>
                                 </td>
                                 <td>Participation certificate AICTE Activity Points: 5</td>
+                                <td>Template</td>
                             </tr>
                             <tr>
                                 <th scope="row">Contest 2</th>
@@ -56,14 +59,15 @@
                                     </ul>
                                 </td>
                                 <td>Shortlisted projects will receive Prizes, Certificate and AICTE Activity Points: 5</td>
+                                <td>Template</td>
                             </tr>
                             <tr>
                                 <th scope="row">Contest 3</th>
                                 <td>Implementation</td>
-                                <td>3rd Oct - 30th Oct, 2022</td>
+                                <td>3rd Oct - 14th Nov, 2022</td>
                                 <td>
                                     <ul>
-                                        <li>Showcase the completed project</li>
+                                        <li>Showcase the completed project (Date: November 19th)</li>
                                     </ul>
                                 </td>
                                 <td>AICTE activity points</td>
