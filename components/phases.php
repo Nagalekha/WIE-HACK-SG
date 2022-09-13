@@ -44,7 +44,7 @@
                                     </ul>
                                 </td>
                                 <td>Participation certificate AICTE Activity Points: 5</td>
-                                <td><a href="./assets/Contest2Template.ppt" download>Download</a></td>
+                                <td><a href="./assets/Contest1Template.ppt" download>Download</a></td>
                             </tr>
                             <tr>
                                 <th scope="row">Contest 2</th>
