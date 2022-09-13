@@ -44,7 +44,7 @@
                                     </ul>
                                 </td>
                                 <td>Participation certificate AICTE Activity Points: 5</td>
-                                <td><a href="./assets/Contest2Template.ppt" download>Template</a></td>
+                                <td><a href="./assets/Contest2Template.ppt" download>Download</a></td>
                             </tr>
                             <tr>
                                 <th scope="row">Contest 2</th>
@@ -59,7 +59,7 @@
                                     </ul>
                                 </td>
                                 <td>Shortlisted projects will receive Prizes, Certificate and AICTE Activity Points: 5</td>
-                                <td><a href="./assets/Contest2Template.ppt" download>Template</a></td>
+                                <td><a href="./assets/Contest2Template.ppt" download>Download</a></td>
                             </tr>
                             <tr>
                                 <th scope="row">Contest 3</th>
