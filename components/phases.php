@@ -14,6 +14,7 @@
                         <li class="text-primary mb-3">Students from all years and all branches are eligible to participate in the contests.</li>
                         <li class="text-primary mb-3">A seriousness fees will be charged to ensure participation and student engagement.</li>
                         <li class="text-primary mb-3">1 participant can be part of 1 team only.</li>
+                        <li class="text-primary mb-3">Participant list can be downloaded from <a href="https://drive.google.com/drive/folders/1gjpjp_devKoirAOrUaWeSDpioir0t8Nd?usp=sharing">here</a></li>
                     </ul>
                     <br>
                     Attractive prizes will be given to the winning teams along with participation certificates for all the participants. The event is designed to provide AICTE activity points to students to ensure good participation.
