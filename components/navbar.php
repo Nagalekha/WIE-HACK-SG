@@ -14,7 +14,7 @@
             <!-- <a class="nav-link scrollto" href="./assets/WIESHL2022.pdf" target="_blank" download="WIE Hack SG">E-Poster</a> -->
             <a class="nav-link scrollto" href="#contact">Contact</a>
         </div>
-        <a href="https://docs.google.com/spreadsheets/d/1V1FCP2BG4xQEYuGUZ9NubkBgkua8Kv2WFIFLBAlnalQ/edit?usp=sharing" target=_blank class="btn btn-success rounded-0 py-2 px-lg-4 d-none d-lg-block">Shortlisted Teams-Contest 3<i class="fa fa-arrow-right ms-3"></i></a>
+        <a href="https://docs.google.com/spreadsheets/d/1V1FCP2BG4xQEYuGUZ9NubkBgkua8Kv2WFIFLBAlnalQ/edit?usp=sharing" target=_blank class="btn btn-success rounded-0 py-2 px-lg-4 d-none d-lg-block">Shortlisted Teams - Contest 3<i class="fa fa-arrow-right ms-3"></i></a>
         &nbsp;&nbsp;
         <a href="https://drive.google.com/drive/folders/1gjpjp_devKoirAOrUaWeSDpioir0t8Nd?usp=sharing" target=_blank class="btn btn-warning rounded-0 py-2 px-lg-4 d-none d-lg-block">Participant List<i class="fa fa-arrow-right ms-3"></i></a>
         &nbsp;&nbsp;
